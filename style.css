@@ -1,0 +1,49 @@
+main {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: 40px solid;
+    border-color: transparent;
+    object-fit: contain;
+    
+    
+    
+}
+
+
+img:hover{
+    border: 40px solid;    
+}
+
+
+#vic-profile{
+    border-color: hsla(309, 56%, 54%, 10%);
+}
+
+#austine-profile{
+    border-color: hsla(309, 56%, 54%, 20%);
+}
+
+#austine-profile{
+    border-color:hsla(309, 56%, 54%, 30%);;
+}
+
+
+#michael-profile{
+    border-color: hsla(309, 56%, 54%, 40%);;
+}
+
+#timothy-profile{
+    border-color: hsla(309, 56%, 54%, 50%);
+
+}
